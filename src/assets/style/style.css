@@ -33,7 +33,6 @@ ul {
   padding-top: 116.79px;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
 }
 
 @media (min-height: 762px) {
@@ -63,6 +62,10 @@ ul {
 
 .side-bar li:hover {
   opacity: .8;
+}
+
+.side-bar ul:last-child {
+  margin-top: auto;
 }
 
   /* SIDE BAR ENDS */
