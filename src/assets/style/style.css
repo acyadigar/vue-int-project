@@ -24,13 +24,13 @@ ul {
   background-color: #FFFFFF;
   height: 2px;
   margin-inline: 30px;
-  margin-bottom: 38.2px;
+  margin-bottom: 38px;
 }
 
 .side-bar {
   background: linear-gradient(175.93deg, #5F00D8 -10.23%, #B200F1 117.03%);
   width: 251px;
-  padding-top: 116.79px;
+  padding-top: 117px;
   display: flex;
   flex-direction: column;
 }
@@ -44,11 +44,11 @@ ul {
 .side-bar span {
   font-weight: bold;
   color: #FFFFFF;
-  margin-left: 21.27px;
+  margin-left: 21px;
 }
 
 .side-bar svg {
-  margin-left: 34.47px;
+  margin-left: 34px;
   width: 21px;
   height: 24px;
 }
@@ -57,7 +57,7 @@ ul {
   cursor: pointer;
   display: flex;
   align-items: center;
-  padding-block: 21.64px;
+  padding-block: 22px;
 }
 
 .side-bar li:hover {
@@ -74,24 +74,24 @@ ul {
 
 .main.users {
   flex: 1;
-  padding-top: 55.31px;
-  margin-inline: 64.33px;
+  padding-top: 55px;
+  margin-inline: 64px;
 }
 
 .head {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 51.91px;
+  margin-bottom: 51px;
 }
 
 .btn {
-  width: 67.45px;
-  height: 35.5px;
+  width: 67px;
+  height: 35px;
   background: #10CD45;
   border-radius: 5px;
   border: none;
   color: white;
-  margin-inline: 5.5px;
+  margin-inline: 5px;
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
@@ -146,8 +146,8 @@ ul {
 }
 
 .user span img {
-  width: 34.61px;
-  height: 34.61px;
+  width: 35px;
+  height: 35px;
   border-radius: 50%;
   margin-right: 20px;
 }
@@ -164,7 +164,7 @@ ul {
 
 .pagination-handlers ul li {
   cursor: pointer;
-  margin-inline: 7.5px;
+  margin-inline: 7px;
   user-select: none;
 }
 
